@@ -4,9 +4,6 @@ const nextConfig = {
     dirs: ['.'],
   },
   reactStrictMode: true,
-  compiler: {
-    removeConsole: false,
-  },
 };
 
 module.exports = nextConfig;
